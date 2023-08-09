@@ -1,0 +1,50 @@
+.main{
+    height: 529px;
+    background-color: black;
+    display: flex;
+    border-bottom: 10px solid #232323;
+}
+
+.left{
+    width: 50%;
+    height: 529px;
+    color: white;
+}
+
+.leftSide{
+    font-size: 48px;
+    font-weight: 900;
+    margin-left: 14rem;
+    margin-top: 5rem;
+}
+
+.smart{
+    font-size: 1.4rem;
+    text-align: right;
+    margin-right: 4.1rem;
+}
+
+.apple{
+    font-size: 1.4rem;
+    text-align: right;
+    margin-right: 1.89rem;
+}
+
+.more{
+    font-size: 1.4rem;
+    text-align: left;
+    margin-left: 14rem;
+}
+
+.right{
+    width: 50%;height: 529px;
+    background-image: url('./images/tv.png');
+}
+
+.video{
+    height: 40rem;
+    width: 28rem;
+    margin-top: 6.6rem;
+    margin-left: 5.9rem;
+}
+

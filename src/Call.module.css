@@ -1,0 +1,45 @@
+.main{
+    height: 465px;
+    width: 1349px;
+    background-color: black;
+    color: white;
+    border-bottom: 10px solid #232323;
+}
+
+.para{
+    margin-left: 9rem;
+    padding-top: 4rem;
+}
+
+.box{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 177px;
+    width: 1028px;
+    margin-left: 9rem;
+    margin-top: 2.7rem;
+}
+
+.each{
+    display: grid;
+    grid-template-columns: 3 1fr;
+    cursor: pointer;
+}
+
+.drop{
+    margin-top: 1.5rem;
+    margin-left: 9rem;
+}
+
+.color{
+    height: 2rem;
+    width: 8rem;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+.end{
+    margin-left: 9rem;
+    margin-top: 1.5rem;
+}
