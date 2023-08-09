@@ -1,0 +1,38 @@
+.main{
+    height: 529px;
+    background-color: black;
+    color: white;
+    display: flex;
+    border-bottom: 10px solid #232323;
+}
+
+.left{
+    width: 50%;
+    height: 529px;
+}
+
+.para{
+    font-size: 48px;
+    font-weight: 900;
+    margin-left: 8rem;
+    margin-top: 8rem;
+}
+
+.tv{
+    font-size: 1.5rem;
+    margin-left: 8rem;
+}
+
+.right{
+    width: 50%;
+    height: 529px;
+    background-image: url('./images/tv-2.png');
+}
+
+.video{
+    height: 20rem;
+    width: 25rem;
+    margin-left: 7rem;
+    margin-top: 2rem;
+}
+
